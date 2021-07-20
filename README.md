@@ -1,7 +1,7 @@
 # CheckSAMACL
-Check For Vulnerability Note VU#506989 (EN and FR Systems)
+Check an Remediation For Vulnerability Note VU#506989 (EN and FR Systems)
 
-Check for Vulnerability described on  https://kb.cert.org/vuls/id/506989
+Check and remediation for Vulnerability described on  https://kb.cert.org/vuls/id/506989
 
 Microsoft Windows 10 gives unprivileged user access to SAM, SYSTEM, and SECURITY files
 
