@@ -1,5 +1,5 @@
 # CheckSAMACL
-Check For Vulnerability Note VU#506989
+Check For Vulnerability Note VU#506989 (EN and FR Systems)
 
 Check for Vulnerability described on  https://kb.cert.org/vuls/id/506989
 
